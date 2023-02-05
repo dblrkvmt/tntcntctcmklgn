@@ -1,6 +1,15 @@
-"C:\Users\Admin\Downloads\ffmpeg-2023-02-02-git-7d49fef8b4-essentials_build\bin\ffmpeg.exe" -i "11111.mp3" -crf 0 -c:a copy -shortest "11111.mp4"
-"C:\Users\Admin\Downloads\ffmpeg-2023-02-02-git-7d49fef8b4-essentials_build\bin\ffmpeg.exe" -i "22222.mp3" -crf 0 -c:a copy -shortest "22222.mp4"
-"C:\Users\Admin\Downloads\ffmpeg-2023-02-02-git-7d49fef8b4-essentials_build\bin\ffmpeg.exe" -i "33333.mp3" -crf 0 -c:a copy -shortest "33333.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.1.mp3" -crf 0 -c:a copy -shortest "Listen\3.1.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.2.mp3" -crf 0 -c:a copy -shortest "Listen\3.2.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.3.mp3" -crf 0 -c:a copy -shortest "Listen\3.3.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.4.mp3" -crf 0 -c:a copy -shortest "Listen\3.4.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.5.mp3" -crf 0 -c:a copy -shortest "Listen\3.5.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.6.mp3" -crf 0 -c:a copy -shortest "Listen\3.6.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.7.mp3" -crf 0 -c:a copy -shortest "Listen\3.7.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.8.mp3" -crf 0 -c:a copy -shortest "Listen\3.8.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.9.mp3" -crf 0 -c:a copy -shortest "Listen\3.9.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.10.mp3" -crf 0 -c:a copy -shortest "Listen\3.10.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.11.mp3" -crf 0 -c:a copy -shortest "Listen\3.11.mp4"
+"..\ffmpeg\bin\ffmpeg.exe" -i "Listen\3.12.mp3" -crf 0 -c:a copy -shortest "Listen\3.12.mp4"
 Pause
 
 
